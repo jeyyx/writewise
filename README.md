@@ -1,16 +1,64 @@
-# React + Vite
+# WriteWise AI ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Deskripsi
 
-Currently, two official plugins are available:
+WriteWise AI adalah aplikasi berbasis Artificial Intelligence yang membantu mahasiswa dalam menulis karya ilmiah seperti skripsi, jurnal, dan esai.
+Aplikasi ini dapat meningkatkan kualitas tulisan, memperbaiki tata bahasa, serta memberikan saran akademik secara otomatis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ## Fitur Utama
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Paraphrase teks
+* Grammar checker
+* Ubah ke bahasa formal
+* Generator judul skripsi
+* Generator abstrak
+* Ringkasan jurnal
+* Citation generator (APA)
+* Latar belakang otomatis
+* Analisis plagiasi sederhana
+* Diskusi teori
+* Tone switcher
+* Rewrite kalimat
+* Spell check
+* Daftar pustaka otomatis
+* Ide research gap
+* Generator essay
+* Email formal ke dosen
+* Auto-complete paragraf
+* Expand argumen
+* Shorten teks
+* Evaluasi tulisan (score AI)
+* Deteksi logika tulisan
+* Translate akademik (IELTS level)
+* Rekomendasi tokoh penelitian
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Teknologi
+
+* React JS
+* Vite
+* Tailwind CSS
+* OpenRouter API
+
+---
+
+## Cara Menjalankan
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+* Kelompok 10
+- Angelica Anastasia Manurung (241110764)
+- Selly Safira Putri (241111842)
+- Victoria Lusiana Manullang (241112797)
+
+* Project: WriteWise AI
