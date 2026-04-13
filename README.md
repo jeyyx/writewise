@@ -158,7 +158,7 @@ Fitur ini memanfaatkan AI untuk interaksi dan penerjemahan.
 
 3. Buka di browser:
 
-https://writewise-flame.vercel.app/
+https://writewise-rboo.vercel.app
 
 ---
 
