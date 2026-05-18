@@ -1,4 +1,5 @@
 # ✨ WriteWise AI
+### Smart Academic Writing Assistant
 
 ## 📌 Deskripsi
 
@@ -6,7 +7,29 @@ WriteWise AI adalah aplikasi berbasis _Artificial Intelligence (AI)_ yang diranc
 
 Aplikasi ini memanfaatkan teknologi AI untuk memberikan bantuan dalam proses penulisan, mulai dari perbaikan tata bahasa, penyusunan kalimat, hingga pengembangan ide penelitian. Dengan demikian, pengguna dapat menghasilkan tulisan yang lebih terstruktur, jelas, dan sesuai dengan standar akademik.
 
-WriteWise AI hadir sebagai solusi untuk mengatasi kesulitan mahasiswa dalam menulis, seperti kesalahan grammar, kurangnya ide, serta keterbatasan dalam menyusun kalimat formal ilmiah.
+WriteWise AI hadir sebagai solusi modern untuk membantu mahasiswa dalam menyusun karya ilmiah secara lebih efektif, terstruktur, dan efisien dengan bantuan Artificial Intelligence.
+
+---
+
+## 💡 Why Choose WriteWise AI?
+
+- 🚀 Boost writing productivity
+- 📚 Academic-focused AI features
+- ✨ Clean and intuitive interface
+- 🔍 Smart grammar and plagiarism assistance
+- 🌍 Multi-language support
+- ⚡ All-in-one writing assistant platform
+
+---
+
+## 🌟 Key Advantages
+
+- User-friendly interface
+- AI-powered academic assistance
+- Faster and more efficient writing process
+- Supports formal scientific writing
+- Multi-feature platform in one system
+- Suitable for students, researchers, and educators
 
 ---
 
@@ -172,6 +195,13 @@ https://writewise-rboo.vercel.app
 
 ---
 
+## 🌍 Multi Platform Support
+- Desktop
+- Web Application
+- Mobile Friendly
+
+---
+
 ## 📎 Kesimpulan
 
 WriteWise AI merupakan solusi inovatif berbasis Artificial Intelligence yang dapat membantu mahasiswa dalam meningkatkan kualitas penulisan akademik. Dengan fitur yang lengkap dan teknologi yang modern, aplikasi ini diharapkan dapat menjadi alat bantu utama dalam proses belajar, penelitian, dan penyusunan karya ilmiah.
@@ -180,7 +210,7 @@ WriteWise AI merupakan solusi inovatif berbasis Artificial Intelligence yang dap
 
 ## 👨‍💻 Author
 
-- Kelompok 10
+- Kelompok 10 (Celestine)
 
 * Angelica Anastasia Manurung (241110764)
 * Selly Safira Putri (241111842)
