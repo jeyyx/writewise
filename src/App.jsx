@@ -417,6 +417,7 @@ const App = () => {
     }
 
     setIsLoading(true);
+
     const url = "https://openrouter.ai/api/v1/chat/completions";
 
     try {
@@ -428,12 +429,31 @@ const App = () => {
           "HTTP-Referer": window.location.origin,
           "X-Title": "WriteWise AI",
         },
+
         body: JSON.stringify({
           model: "google/gemini-2.0-flash-001",
+
           messages: [
             {
               role: "user",
-              content: `${prompt}\n\n"${text}"`,
+
+              content: `
+You are an academic writing assistant.
+
+Rules:
+- Use formal academic language
+- Avoid informal wording
+- Improve grammar professionally
+- Maintain clarity and coherence
+- Write naturally like a human academic writer
+- Avoid robotic AI-style writing
+
+Task:
+${prompt}
+
+Text:
+"${text}"
+`,
             },
           ],
         }),
