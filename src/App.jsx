@@ -478,7 +478,7 @@ const App = () => {
           ...prev,
         ]);
 
-        setInputText("");
+        setInputText(result);
       } else {
         throw new Error(
           "AI tidak memberikan respon. Coba ubah teks input Anda.",
